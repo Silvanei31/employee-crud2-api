@@ -1,0 +1,23 @@
+{
+  "name": "employee-crud2-api",
+  "version": "1.0.0",
+  "description": "Aplicação teste CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silvanei31/employee-crud2-api.git"
+  },
+  "keywords": [],
+  "author": "Silvanei Zahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silvanei31/employee-crud2-api/issues"
+  },
+  "homepage": "https://github.com/Silvanei31/employee-crud2-api#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1"
+  }
+}
